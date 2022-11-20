@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "@jb")(type "KiCad")(uri "${KIPRJMOD}/@jb.pretty")(options "")(descr ""))
+)
