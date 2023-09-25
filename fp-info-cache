@@ -1,4 +1,4 @@
-19873894642151
+21569578167108
 @jb
 BatteryHolder-Lynx-BAT-HLD-001
 https://www.mouser.com/datasheet/2/238/LNNC_S_A0002913840_1-2550745.pdf
@@ -34,6 +34,13 @@ QFN NoLead
 0
 91
 49
+@jb
+SWP
+Serial Wire Probe, Through hole straight pin header, 2x03, 1.27mm pitch, double rows
+SWP, Debug, Through hole pin header THT 2x03 1.27mm double row
+0
+5
+5
 @jb
 SW_SPST_TL1016
 https://www.e-switch.com/system/asset/product_line/data_sheet/213/TL3305.pdf
